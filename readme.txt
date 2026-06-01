@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hollowhollowhollow/discrete-math-project)
+
 BinaryTreeVisualizer Executable
 
 1. Prerequisites for Deployment 
@@ -42,6 +44,8 @@ Getting Started > About Application Deployment >
 Deployment Product Terms in the MathWorks Documentation
 Center.
 
-
+note: uses a modified code from
+Copyright (c) 2014, Jean-Yves Tinevez
+All rights reserved.
 
 
